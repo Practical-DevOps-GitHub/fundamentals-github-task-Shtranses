@@ -4,7 +4,9 @@
 
 ## Checklist before requesting a review
 
-- [ ] Я провів(ла) самостійний(у) перегляд свого коду.
-- [ ] Якщо це основна функціональність, я додав(ла) докладні тести.
-- [ ] Чи потрібно реалізувати аналітику?
-- [ ] Це буде частиною оновлення продукту? Якщо так, будь ласка, напишіть одну фразу про це оновлення.
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update
+ 
+ 
